@@ -1,0 +1,4 @@
+<?
+echo 'kok kepo sih?'
+
+<?
